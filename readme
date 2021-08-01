@@ -1,1 +1,3 @@
 A basic typescript react and typescript express project setup.
+
+Clone, then run npm install in both app root and /path/to/app/client
